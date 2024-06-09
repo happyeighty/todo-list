@@ -6,6 +6,7 @@ Add tasks: Enter a task and press Enter or click the "Add Task" button to add it
 Remove tasks: Click the "Remove" button next to a task to remove it from the list.
 Mark tasks as completed: Click the checkbox next to a task to mark it as completed.
 Responsive design: The application is responsive and works well on different screen sizes.
+
 How to Run:
 Clone this repository to your local machine.
 Navigate to the project directory.
